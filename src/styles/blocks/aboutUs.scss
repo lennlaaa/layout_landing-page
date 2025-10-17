@@ -2,7 +2,7 @@
   background-color: #fcfaef;
   margin-inline: -20px;
   margin-bottom: 0;
-
+  
   @media (min-width: 576px) {
     margin-inline: -72px;
   }
@@ -20,7 +20,6 @@
     background-position: center;
 
     @media (min-width: 576px) {
-      display: block;
       background-image: url(../images/photo-AboutUs-tablet.png);
       width: 100%;
       height: 400px;
