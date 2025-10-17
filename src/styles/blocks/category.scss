@@ -75,9 +75,10 @@
 
     border: 1px solid #f98921;
     background-color: #f98921;
-    width: 280px;
+    width: 100%;
     height: 56px;
     border-radius: 8px;
+    justify-content: center;
     cursor: pointer;
 
     &:active {
